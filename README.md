@@ -2,9 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Master student at <a href="https://www.nthu.edu.tw/">National Tsing Hua University (國立清華大學)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-[![Facebook: Truong Hoang Linh](https://img.shields.io/facebook/follow/ThaiiBraga?style=social)](https://www.facebook.com/takeishyno/)
 [![Linkedin: truonghoanglinh](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/truonghoanglinh1996/)](https://www.linkedin.com/in/truonghoanglinh1996/)
-[![GitHub hoanglinh96nl](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub hoanglinh96nl](https://img.shields.io/github/followers/hoanglinh96nl?label=hoanglinh96nl&style=social)](https://github.com/hoanglinh96nl)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
